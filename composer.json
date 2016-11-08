@@ -1,5 +1,6 @@
 {
     "require": {
         "slim/slim": "^3.0"
+        "^3.0--> esto significa que la version es mayor que 3.0"
     }
 }
